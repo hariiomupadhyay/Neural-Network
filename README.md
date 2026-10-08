@@ -1,2 +1,78 @@
-# neural-network
-Advanced implementation of multilayer neural networks and computational logic circuits using Python and TensorFlow.
+# Neural Network
+
+[![GitHub](https://img.shields.io/badge/GitHub-hariiomupadhyay%2FNeural--Network-181717?logo=github)](https://github.com/hariiomupadhyay/Neural-Network)
+
+Owner: [hariiomupadhyay](https://github.com/hariiomupadhyay)
+
+Repository: [Neural-Network](https://github.com/hariiomupadhyay/Neural-Network)
+
+## Repository navigation
+
+- [Code](https://github.com/hariiomupadhyay/Neural-Network)
+- [Issues](https://github.com/hariiomupadhyay/Neural-Network/issues)
+- [Pull requests](https://github.com/hariiomupadhyay/Neural-Network/pulls)
+- [Actions](https://github.com/hariiomupadhyay/Neural-Network/actions)
+- [Projects](https://github.com/hariiomupadhyay/Neural-Network/projects)
+- [Security and quality](https://github.com/hariiomupadhyay/Neural-Network/security)
+- [Insights](https://github.com/hariiomupadhyay/Neural-Network/pulse)
+
+Advanced implementation of neural network concepts and computational logic circuits using Python and TensorFlow.
+
+This repository contains interactive notebooks that explore how simple neural networks can model Boolean logic and multiplexing behavior. The projects combine digital logic fundamentals with TensorFlow-based learning workflows, making it a practical study space for understanding how decision boundaries and logic functions are represented in machine learning.
+
+## Overview
+
+The notebooks in this repository cover:
+
+- Logic gate implementations such as AND, OR, NOT, NOR, XOR, and XNOR
+- TensorFlow-based Boolean logic experiments
+- Multiplexer data generation and training
+- Neural network patterns for learning logic-driven functions
+
+## Repository structure
+
+- [Logic_Gates.ipynb](Logic_Gates.ipynb) — experiments demonstrating common digital logic gates using TensorFlow
+- [mux.ipynb](mux.ipynb) — neural network implementation for multiplexer-style tasks using TensorFlow, Keras, and NumPy
+
+## Technologies used
+
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Jupyter Notebook
+
+## Getting started
+
+### Prerequisites
+
+Install the required dependencies:
+
+```bash
+pip install tensorflow numpy jupyter jupyterlab
+```
+
+### Run the notebooks
+
+Launch either Jupyter Notebook or JupyterLab in the project directory:
+
+```bash
+jupyter notebook
+```
+
+```bash
+jupyter lab
+```
+
+Then open either notebook from the browser interface and run the cells in sequence.
+
+## Learning goals
+
+- Understand how basic Boolean logic maps to neural computations
+- Practice implementing logic functions with TensorFlow tensors
+- Explore training data generation and model learning for logic-based tasks
+- Build intuition for how neural networks represent decision functions
+
+## Notes
+
+These notebooks are educational and exploratory in nature. They are designed to help understand the relationship between digital logic and neural network representations, rather than serve as a production-ready ML pipeline.
