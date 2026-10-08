@@ -1,5 +1,21 @@
 # Neural Network
 
+[![GitHub](https://img.shields.io/badge/GitHub-hariiomupadhyay%2FNeural--Network-181717?logo=github)](https://github.com/hariiomupadhyay/Neural-Network)
+
+Owner: [hariiomupadhyay](https://github.com/hariiomupadhyay)
+
+Repository: [Neural-Network](https://github.com/hariiomupadhyay/Neural-Network)
+
+## Repository navigation
+
+- [Code](https://github.com/hariiomupadhyay/Neural-Network)
+- [Issues](https://github.com/hariiomupadhyay/Neural-Network/issues)
+- [Pull requests](https://github.com/hariiomupadhyay/Neural-Network/pulls)
+- [Actions](https://github.com/hariiomupadhyay/Neural-Network/actions)
+- [Projects](https://github.com/hariiomupadhyay/Neural-Network/projects)
+- [Security and quality](https://github.com/hariiomupadhyay/Neural-Network/security)
+- [Insights](https://github.com/hariiomupadhyay/Neural-Network/pulse)
+
 Advanced implementation of neural network concepts and computational logic circuits using Python and TensorFlow.
 
 This repository contains interactive notebooks that explore how simple neural networks can model Boolean logic and multiplexing behavior. The projects combine digital logic fundamentals with TensorFlow-based learning workflows, making it a practical study space for understanding how decision boundaries and logic functions are represented in machine learning.
