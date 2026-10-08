@@ -33,15 +33,19 @@ The notebooks in this repository cover:
 Install the required dependencies:
 
 ```bash
-pip install tensorflow numpy jupyter
+pip install tensorflow numpy jupyter jupyterlab
 ```
 
 ### Run the notebooks
 
-Launch Jupyter Notebook or Jupyter Lab in the project directory:
+Launch either Jupyter Notebook or JupyterLab in the project directory:
 
 ```bash
 jupyter notebook
+```
+
+```bash
+jupyter lab
 ```
 
 Then open either notebook from the browser interface and run the cells in sequence.
